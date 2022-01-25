@@ -41,7 +41,7 @@ public class SınıfıGeçmeDurumu {
         if (result >=  55) {
             System.out.println("Sınıfı Geçtiniz.");
         } else {
-            System.out.println("Sınıfta Kaldınız.");
+            System.out.println("Sınıfta Kaldınız");
         }
 }
 }
