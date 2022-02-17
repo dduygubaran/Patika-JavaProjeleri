@@ -1,4 +1,4 @@
-package MaasHesaplayici;
+package SiniflarMaasHesaplayici;
 
 public class Employee {
 
