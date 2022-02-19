@@ -216,3 +216,6 @@ Dizideki elemanların girilen sayıdan küçük en yakın sayıyı ve en büyük
 
 ## Diziler - Çok Boyutlu Dizilerde Yıldızlar ile B Harfi Yapmak
 Çok boyutlu diziler kullanılarak "yıldızlar" ile ekrana "B" harfi yazan programı yazınız.
+
+## Diziler - Dizilerde Tekrar Eden Çift Sayıları Bulmak
+Bir sayı dizisindeki tekrar eden çift sayıları belirten bir program yazmak.
