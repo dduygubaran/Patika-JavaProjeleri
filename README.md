@@ -225,3 +225,6 @@ Java dilinde, dizideki elemanları küçükten büyüğe sıralayan programı ya
 
 ## Diziler - Eleman Frekansı
 Java dilinde, dizideki elemanların kaç kez tekrar edildiğini yani frekanslarını bulan programı yazınız.
+
+## Diziler - Matris Transpozunu Bulma
+Java dilinde, çok boyutlu diziler ile oluşturulmuş matrisin transpozunu bulan programı yazınız.
