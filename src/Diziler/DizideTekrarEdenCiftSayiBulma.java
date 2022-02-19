@@ -23,7 +23,6 @@ public class DizideTekrarEdenCiftSayiBulma {
 
         for (int value : duplicate) {
             if (value != 0) {
-
             }
         }
     }
