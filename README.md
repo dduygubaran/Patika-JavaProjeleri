@@ -219,3 +219,6 @@ Dizideki elemanların girilen sayıdan küçük en yakın sayıyı ve en büyük
 
 ## Diziler - Dizilerde Tekrar Eden Çift Sayıları Bulmak
 Bir sayı dizisindeki tekrar eden çift sayıları belirten bir program yazmak.
+
+## Diziler - Dizideki Elemanları Sıralama
+Java dilinde, dizideki elemanları küçükten büyüğe sıralayan programı yazınız. Dizinin boyutunu ve dizinin elemanlarını kullanıcıdan alınız.
