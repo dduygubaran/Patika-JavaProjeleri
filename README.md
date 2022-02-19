@@ -210,3 +210,6 @@ toString() : Çalışana ait bilgileri ekrana bastıracaktır.
 ## Diziler - Harmonik Ortalama Hesaplama
 Dizideki sayıların harmonik ortalamasını hesaplayan programı yazınız.
 Harmonik Ortalama formülü : n (eleman sayısı) / elemanların harmonik serisi
+
+## Diziler - En Yakın Küçük ve En Yakın Büyük Sayı Bulma
+Dizideki elemanların girilen sayıdan küçük en yakın sayıyı ve en büyük en yakın sayıyı bulan programı yazınız.
