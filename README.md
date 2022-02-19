@@ -213,3 +213,6 @@ Harmonik Ortalama formülü : n (eleman sayısı) / elemanların harmonik serisi
 
 ## Diziler - En Yakın Küçük ve En Yakın Büyük Sayı Bulma
 Dizideki elemanların girilen sayıdan küçük en yakın sayıyı ve en büyük en yakın sayıyı bulan programı yazınız.
+
+## Diziler - Çok Boyutlu Dizilerde Yıldızlar ile B Harfi Yapmak
+Çok boyutlu diziler kullanılarak "yıldızlar" ile ekrana "B" harfi yazan programı yazınız.
