@@ -228,3 +228,6 @@ Java dilinde, dizideki elemanların kaç kez tekrar edildiğini yani frekanslar�
 
 ## Diziler - Matris Transpozunu Bulma
 Java dilinde, çok boyutlu diziler ile oluşturulmuş matrisin transpozunu bulan programı yazınız.
+
+## Dizilerr - Sayı Tahmin Oyunu
+Java dilinde programın 0-100 arasında rastgele seçtiği bir sayıyı kullanıcının tahmin etmesini istediğimiz bir "Sayı Tahmin Oyunu" yapıyoruz.
