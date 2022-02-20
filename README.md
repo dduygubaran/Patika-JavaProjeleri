@@ -207,6 +207,10 @@ Eğer çalışan 9 yıldan fazla ve 20 yıldan az çalışıyorsa maaşına %10 
 Eğer çalışan 19 yıldan fazla çalışıyorsa %15 zam yapılacaktır.
 toString() : Çalışana ait bilgileri ekrana bastıracaktır.
 
+## Palindromik Kelimeleri Bulan Program
+Java dilinde kullanıcının girdiği kelimenin "Palindromik" olup olmadığını bulan bir program yazıyoruz.
+Eğer bir kelimenin tersten okunuşu yine aynı kelimeyi veriyorsa o kelime "Palindromik Kelime'dir".
+
 ## Diziler - Harmonik Ortalama Hesaplama
 Dizideki sayıların harmonik ortalamasını hesaplayan programı yazınız.
 Harmonik Ortalama formülü : n (eleman sayısı) / elemanların harmonik serisi
