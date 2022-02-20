@@ -69,7 +69,7 @@ Aynı örnek üzerinden if koşulları başka hangi şekilde oluşturulabilirdi 
 ## Büyükten Küçüğe Sıralama
 Girilen 3 sayıyı "küçükten büyüğe" sıralayan programı yazınız.
 
-## Burç Bulan Prog
+## Burç Bulan Program
 Koç Burcu : 21 Mart - 20 Nisan
 Boğa Burcu : 21 Nisan - 21 Mayıs
 İkizler Burcu : 22 Mayıs - 22 Haziran
